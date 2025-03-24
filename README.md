@@ -6,3 +6,7 @@
 *DOMAIN*: WEB DEVELOPMENT
 *DURATION*: 4 WEEKS
 *MENTOR*: NEELA SANTOSH
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/95a5a462-c1f8-4ce2-bf42-b28cefcd1e6d)
+
